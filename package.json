@@ -1,0 +1,26 @@
+{
+  "name": "array.prototype.unpop",
+  "version": "1.0.0",
+  "description": "Array.prototype.unpop()",
+  "keywords": [
+    "unpop"
+  ],
+  "homepage": "https://github.com/10xly/array.prototype.unpop#readme",
+  "bugs": {
+    "url": "https://github.com/10xly/array.prototype.unpop/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/10xly/array.prototype.unpop.git"
+  },
+  "license": "MIT",
+  "author": "10xly",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "unpop": "^1.0.1"
+  }
+}
